@@ -18,4 +18,4 @@ This repository contains all networking internship tasks completed during the in
 
 ## Author
 
-Meghana
+Meghana S
